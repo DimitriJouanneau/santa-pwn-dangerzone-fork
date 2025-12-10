@@ -1,0 +1,9 @@
+🎅 Thank you for your submission!
+
+To ensure this PR is nice and not naughty, this workflow works
+only with pull requests that exclusively contain the `letter.gpg`
+file. Since this PR contains other file modifications, it will not
+be processed.
+
+Feel free to update your PR accordingly, unless of course you
+wanted to fix something in the repo.
